@@ -7,8 +7,8 @@ var w = c.width = window.innerWidth,
 		
 		opts = {
 			strings: [ 'DOĞUM', 'GÜNÜN', 'KUTLU', 'OLSUN', 'İREM!'],
-			charSize: 40,
-			charSpacing: 20,
+			charSize: 30,
+			charSpacing: 35,
 			lineHeight: 40,
 			
 			cx: w / 2,
