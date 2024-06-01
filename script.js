@@ -9,7 +9,7 @@ var w = c.width = window.innerWidth,
 			strings: [ 'DOĞUM', 'GÜNÜN', 'KUTLU', 'OLSUN', 'İREM!'],
 			charSize: 40,
 			charSpacing: 35,
-			lineHeight: 200,
+			lineHeight: 100,
 			
 			cx: w / 2,
 			cy: h / 2,
